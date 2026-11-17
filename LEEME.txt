@@ -1,0 +1,9 @@
+CORAZÓN DE PANCE — SITIO WEB
+Abre index.html en un navegador. Mantén la carpeta images junto a los archivos HTML.
+
+Páginas: inicio, senderismo, camping, productos, aves, sitios, negocios y comunidad.
+images/001.jpeg es la imagen de portada proporcionada por el usuario.
+images/002.jpeg a images/008.jpeg son recortes JPEG de la imagen de referencia para las páginas interiores.
+La portada conserva la imagen de referencia completa y tiene enlaces transparentes clicables sobre los seis recuadros, comunidad y redes sociales.
+Los enlaces sociales abren las páginas principales de Facebook, WhatsApp, Instagram, YouTube y Pinterest; reemplázalos por los perfiles oficiales cuando estén disponibles.
+El directorio de negocios y contactos está preparado para completarse con datos verificados. Las imágenes interiores son ilustrativas, no fotografías independientes de cada lugar o especie.
